@@ -19,4 +19,4 @@
 
 ### REST API
 
-[Создание и развёртывание REST AP](https://tproger.ru/translations/deploy-a-secure-golang-rest-api/)
+[Создание и развёртывание REST API](https://tproger.ru/translations/deploy-a-secure-golang-rest-api/)
