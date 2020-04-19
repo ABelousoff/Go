@@ -12,3 +12,11 @@
 [Создание GUI-приложений](https://www.ibm.com/developerworks/ru/library/l-go_04/index.html)
 
 [martian](https://github.com/google/martian)
+
+[package martian](https://godoc.org/github.com/google/martian)
+
+[ffmpeg](https://godoc.org/?q=ffmpeg)
+
+### REST API
+
+[Создание и развёртывание REST AP](https://tproger.ru/translations/deploy-a-secure-golang-rest-api/)
