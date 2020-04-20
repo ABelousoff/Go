@@ -25,3 +25,5 @@
 
 ### Стандартные пакеты Go
 [Packages](https://golang.org/pkg/)
+
+[Тестирование](https://blog.golang.org/cover)
