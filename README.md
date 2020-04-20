@@ -27,3 +27,5 @@
 [Packages](https://golang.org/pkg/)
 
 [Тестирование](https://blog.golang.org/cover)
+
+[Стандарты форматирования кода в Go](https://golang.org/doc/effective_go.html)
