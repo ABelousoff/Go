@@ -22,3 +22,6 @@
 [Создание и развёртывание REST API](https://tproger.ru/translations/deploy-a-secure-golang-rest-api/)
 
 [Package stripe provides the binding for Stripe REST APIs](https://godoc.org/github.com/stripe/stripe-go)
+
+### Стандартные пакеты Go
+[Packages](https://golang.org/pkg/)
