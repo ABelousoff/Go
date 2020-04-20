@@ -19,6 +19,10 @@
 
 [ffmpeg](https://godoc.org/?q=ffmpeg)
 
+Полезные:
+- [project-layout](https://github.com/golang-standards/project-layout)
+- [go-best-practices](https://github.com/codeship/go-best-practices)
+
 ### REST API
 
 [Создание и развёртывание REST API](https://tproger.ru/translations/deploy-a-secure-golang-rest-api/)
