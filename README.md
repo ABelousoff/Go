@@ -22,6 +22,7 @@
 Полезные:
 - [project-layout](https://github.com/golang-standards/project-layout)
 - [go-best-practices](https://github.com/codeship/go-best-practices)
+- [golang/go](https://github.com/golang/go/wiki)
 
 ### REST API
 
