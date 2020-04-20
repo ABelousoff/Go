@@ -1,6 +1,8 @@
 # Go
 [Чат](https://gitter.im/index0h/dive-into-golang)
 
+[Тур по прохождению Go](https://go-tour-ru-ru.appspot.com/welcome/1)
+
 [Доступно о модулях](https://blog.gelin.ru/2019/08/gomod.html)
 
 [golang.org](https://golang.org/)
